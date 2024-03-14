@@ -1,4 +1,4 @@
-![GitHub](test)
+![GitHub](https://img.shields.io/github/license/philpreikschas/operando-ir)
 [![DOI article](https://img.shields.io/badge/DOI-10.xxxx/xxxx-red)](https://dx.doi.org/10.xxxx/xxxx)
 [![DOI code](https://img.shields.io/badge/DOI_Code-10.5281/zenodo.8070371-blue)](https://zenodo.org/badge/latestdoi/587696258)
 
