@@ -3,7 +3,7 @@
 [![DOI code](https://zenodo.org/badge/679698743.svg)](https://zenodo.org/doi/10.5281/zenodo.10818471)
 
 # Operando IR
-Python application for the automated import of Bruker OPUS raw data (), spectra normalization, background subtraction, and generation of intensity line profiles for specified wavenumbers.
+Python application for the automated import of Bruker OPUS raw data (via brukeropusreader), spectra normalization, background subtraction, and generation of intensity line profiles for specified wavenumbers.
 
 # Citing Operando IR
 **Low-nuclearity CuZn ensembles on ZnZrOx catalyze methanol synthesis from CO2**.  
