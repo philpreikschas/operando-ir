@@ -1,5 +1,5 @@
 ![GitHub](https://img.shields.io/github/license/philpreikschas/operando-ir)
-[![DOI article](https://img.shields.io/badge/DOI-10.1038/s41467-024-47447-6-red)](https://dx.doi.org/10.1038/s41467-024-47447-6)
+[![DOI article](https://img.shields.io/badge/DOI-10.1038/s41467--024--47447--6-red)](https://dx.doi.org/10.1038/s41467-024-47447-6)
 [![DOI code](https://zenodo.org/badge/679698743.svg)](https://zenodo.org/doi/10.5281/zenodo.10818471)
 
 # Operando IR
